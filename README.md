@@ -1,8 +1,6 @@
 # Module-04
-Linkedlist from Java Collection
+It is a java program that generates a list of random integers and save it to linkedlist in ascending order. It uses the linkedlist from Java collection framework.
 
-What is this package about? 
-(Include image to explain)
 
 ## How can you use it? 
 
