@@ -6,12 +6,13 @@ What is this package about?
 
 ## How can you use it? 
 
-/*Command line :
-For Javadoc : javadoc -d doc SortedLinkedlist.java
-To Compile program: javac SortedLinkedlist.java
-To Run program: java SortedLinkedlist
+Command line :
 
-Code Reuse Examples are mentioned in differen pdf file.*/
+- For Javadoc : javadoc -d doc SortedLinkedlist.java
+- To Compile program: javac SortedLinkedlist.java
+- To Run program: java SortedLinkedlist
+
+Code Reuse Examples are mentioned in differen pdf file.
 
 
 Definition of parameters
