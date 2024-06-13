@@ -54,5 +54,8 @@ List of unsorted integer: [79, 84, 192, 30, 83, 99, 99, 181, 98, 108]
 
 Sorted Linkedlist:[30, 79, 83, 84, 98, 99, 99, 108, 181, 192]
 
+## Contributing:
+Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
+
 
 
