@@ -16,35 +16,37 @@ Ensure you have Java Development Kit (JDK) installed.
 
 Steps:
 
-Clone the Repository:
+1)Clone the Repository:
 
 --Download the entire repository from GitHub to your local machine by running:
 
  git clone https://github.com/PradhanJyo/Module-04.git
 
-Navigate to the Project Directory:
+2)Navigate to the Project Directory:
 
 --Change into the project directory:
 
  cd Module-04
 
-Compile the Java Program:
+3)Compile the Java Program:
 
 --Compile the SortedLinkedlist.java file using javac:
 
  javac SortedLinkedlist.java
 
- Run the Java Program:
+ 4)Run the Java Program:
 
  --Execute the compiled Java program:
 
  java SortedLinkedlist
+ 
+#### Generate javadoc of SortedLinkedlist.java
 
 --Generate javadoc:
 
 javadoc -d doc SortedLinkedlist.java
 
-#### Example Output:
+##### Example Output:
 
 When you run the program, it will display an unsorted list of integers and then the sorted LinkedList. Example output:
 
