@@ -54,8 +54,12 @@ List of unsorted integer: [79, 84, 192, 30, 83, 99, 99, 181, 98, 108]
 
 Sorted Linkedlist:[30, 79, 83, 84, 98, 99, 99, 108, 181, 192]
 
-## Contributing:
+## Contributing
+
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
+## License
 
+This project is licensed under the MIT License. See the [LICENSE.txt](https://github.com/user-attachments/files/15826491/LICENSE.txt)
+file for details.
 
