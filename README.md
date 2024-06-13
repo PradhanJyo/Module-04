@@ -9,12 +9,12 @@ This repository contains a java program that generates a list of random integers
 -Displays the unsorted and sorted lists.
 
 
-### Installation and Usage
+## Installation and Usage
 Prerequisites:
 
 Ensure you have Java Development Kit (JDK) installed.
 
-Steps:
+### Steps:
 
 1)Clone the Repository:
 
@@ -40,13 +40,13 @@ Steps:
 
  java SortedLinkedlist
  
-#### Generate javadoc of SortedLinkedlist.java
+5)Generate javadoc of SortedLinkedlist.java
 
 --Generate javadoc:
 
 javadoc -d doc SortedLinkedlist.java
 
-##### Example Output:
+#### Example Output:
 
 When you run the program, it will display an unsorted list of integers and then the sorted LinkedList. Example output:
 
