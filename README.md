@@ -46,7 +46,7 @@ Ensure you have Java Development Kit (JDK) installed.
 
 javadoc -d doc SortedLinkedlist.java
 
-#### Example Output:
+### Example Output:
 
 When you run the program, it will display an unsorted list of integers and then the sorted LinkedList. Example output:
 
