@@ -2,17 +2,21 @@
 This repository contains a java program that generates a list of random integers and save it to linkedlist in ascending order. It uses the linkedlist from Java collection framework.
 
 ## Features
---Generates a list of random integers.
---Sorts the integers in ascending order and saves it in LinkedList.
---Displays the unsorted and sorted lists.
+-Generates a list of random integers.
+
+-Sorts the integers in ascending order and saves it in LinkedList.
+
+-Displays the unsorted and sorted lists.
 
 
 ### Installation and Usage
 Prerequisites:
+
 Ensure you have Java Development Kit (JDK) installed.
 
 Steps:
--Clone the Repository:
+
+Clone the Repository:
 
 --Download the entire repository from GitHub to your local machine by running:
 
