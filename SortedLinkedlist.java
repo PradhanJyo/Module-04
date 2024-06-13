@@ -12,7 +12,7 @@ import java.util.Random;
 
 public class SortedLinkedlist {
 /**
- * This is main method of SortedLinkedlist class
+ * This is main method of SortedLinkedlist class. It generates a list of random integers and pass it as a parameter to sortedLinkedlist() method.
  * @param args default parameter of a main - not used
  */
     public static void main(String[] args){
